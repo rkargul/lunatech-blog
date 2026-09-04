@@ -121,8 +121,6 @@ I have given talks and workshops before, so I did not expect to be surprised by 
 
 I will gladly return if I get the chance.
 
-// TODO: optional, a photo works well here. Add image::photo.jpg[alt text] and put the file in this directory.
-
 == Wrapping up
 
 The full workshop is public and lives at https://github.com/wjglerum/quarkus-secure-ai-agent-workshop-javazone-2026[github.com/wjglerum/quarkus-secure-ai-agent-workshop-javazone-2026]. `main` is the vulnerable application, branches `step-01` through `step-05` are the reference solutions with one fix per diff, and each `docs/steps/step-0N.md` has the exploit script and the fix walkthrough. Clone it, run the two services, and break it yourself.
